@@ -1,5 +1,6 @@
 /**
  * CanvasCapture - An HTML5 Canvas screen capture tool. Record animations from HTML5 Canvas in realtime.
+ * https://github.com/zachstronaut/CanvasCapture
  *
  * 2012-02-17
  * Alpha release to GitHub. Needs documentation and better examples.
