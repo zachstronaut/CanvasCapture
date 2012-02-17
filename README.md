@@ -1,6 +1,6 @@
 # CanvasCapture
 
-An HTML5 Canvas screen capture tool written in JavaScript. Record animations from HTML5 Canvas in realtime. Create videos of HTML5 video games and demos.
+An HTML5 Canvas screen capture tool written in JavaScript. Record animations from HTML5 Canvas in realtime. Create videos of HTML5 video games and demos. Here is an example of the [captured video being played back](http://www.zachstronaut.com/lab/proto-strip/proto-strip.html).
 
 ## Example Usage
 
